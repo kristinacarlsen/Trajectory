@@ -1,5 +1,5 @@
 {
-  "homepage": " https://kristinacarlsen.github.io/Trajectory/",
+  "homepage": "https://kristinacarlsen.github.io/Trajectory/",
   "name": "mommy-blog",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,8 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "gh-pages": "^2.1.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -38,7 +39,16 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^2.1.1"
+  "devDependencies": {},
+  "description": "This project uses React Bootstrap to style a basic blog page.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinacarlsen/Trajectory.git"
+  },
+  "author": "Kristina Carlsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinacarlsen/Trajectory/issues"
   }
 }
