@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Trajectory/static/css/main.e42c16aa.chunk.css",
+    "main.js": "/Trajectory/static/js/main.850b6e18.chunk.js",
+    "main.js.map": "/Trajectory/static/js/main.850b6e18.chunk.js.map",
+    "runtime-main.js": "/Trajectory/static/js/runtime-main.7dc47db5.js",
+    "runtime-main.js.map": "/Trajectory/static/js/runtime-main.7dc47db5.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Trajectory/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6bf45065.chunk.js": "/Trajectory/static/js/2.6bf45065.chunk.js",
+    "static/js/2.6bf45065.chunk.js.map": "/Trajectory/static/js/2.6bf45065.chunk.js.map",
+    "index.html": "/Trajectory/index.html",
+    "precache-manifest.a5691be5ec5ec5a4ce91b1ec4bea98a8.js": "/Trajectory/precache-manifest.a5691be5ec5ec5a4ce91b1ec4bea98a8.js",
+    "service-worker.js": "/Trajectory/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Trajectory/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.e42c16aa.chunk.css.map": "/Trajectory/static/css/main.e42c16aa.chunk.css.map",
+    "static/js/2.6bf45065.chunk.js.LICENSE": "/Trajectory/static/js/2.6bf45065.chunk.js.LICENSE",
+    "static/media/christmasCookies.jpg": "/Trajectory/static/media/christmasCookies.fbafdd0c.jpg",
+    "static/media/goals.jpg": "/Trajectory/static/media/goals.56cfb2a8.jpg",
+    "static/media/learnRest.jpg": "/Trajectory/static/media/learnRest.398fdc19.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc47db5.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6bf45065.chunk.js",
+    "static/css/main.e42c16aa.chunk.css",
+    "static/js/main.850b6e18.chunk.js"
+  ]
+}
